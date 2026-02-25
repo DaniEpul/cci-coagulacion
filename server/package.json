@@ -1,0 +1,1 @@
+{"name": "cci-coagulacion","version": "1.0.0","description": "A Portal CCI Coagulación application for managing quality control records with Levey-Jennings charts.","dependencies": {"express": "^4.17.1"}}
